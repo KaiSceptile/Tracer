@@ -1,0 +1,17 @@
+D:\СПП\TracerApp\obj\Debug\net6.0\TracerApp.csproj.AssemblyReference.cache
+D:\СПП\TracerApp\obj\Debug\net6.0\TracerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\СПП\TracerApp\obj\Debug\net6.0\TracerApp.AssemblyInfoInputs.cache
+D:\СПП\TracerApp\obj\Debug\net6.0\TracerApp.AssemblyInfo.cs
+D:\СПП\TracerApp\obj\Debug\net6.0\TracerApp.csproj.CoreCompileInputs.cache
+D:\СПП\TracerApp\bin\Debug\net6.0\TracerApp.exe
+D:\СПП\TracerApp\bin\Debug\net6.0\TracerApp.deps.json
+D:\СПП\TracerApp\bin\Debug\net6.0\TracerApp.runtimeconfig.json
+D:\СПП\TracerApp\bin\Debug\net6.0\TracerApp.dll
+D:\СПП\TracerApp\bin\Debug\net6.0\TracerApp.pdb
+D:\СПП\TracerApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\СПП\TracerApp\obj\Debug\net6.0\TracerApp.csproj.CopyComplete
+D:\СПП\TracerApp\obj\Debug\net6.0\TracerApp.dll
+D:\СПП\TracerApp\obj\Debug\net6.0\refint\TracerApp.dll
+D:\СПП\TracerApp\obj\Debug\net6.0\TracerApp.pdb
+D:\СПП\TracerApp\obj\Debug\net6.0\TracerApp.genruntimeconfig.cache
+D:\СПП\TracerApp\obj\Debug\net6.0\ref\TracerApp.dll

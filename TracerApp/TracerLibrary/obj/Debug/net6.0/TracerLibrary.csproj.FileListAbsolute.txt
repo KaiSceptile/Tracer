@@ -1,0 +1,12 @@
+D:\СПП\TracerApp\TracerLibrary\bin\Debug\net6.0\TracerLibrary.deps.json
+D:\СПП\TracerApp\TracerLibrary\bin\Debug\net6.0\TracerLibrary.dll
+D:\СПП\TracerApp\TracerLibrary\bin\Debug\net6.0\TracerLibrary.pdb
+D:\СПП\TracerApp\TracerLibrary\obj\Debug\net6.0\TracerLibrary.csproj.AssemblyReference.cache
+D:\СПП\TracerApp\TracerLibrary\obj\Debug\net6.0\TracerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\СПП\TracerApp\TracerLibrary\obj\Debug\net6.0\TracerLibrary.AssemblyInfoInputs.cache
+D:\СПП\TracerApp\TracerLibrary\obj\Debug\net6.0\TracerLibrary.AssemblyInfo.cs
+D:\СПП\TracerApp\TracerLibrary\obj\Debug\net6.0\TracerLibrary.csproj.CoreCompileInputs.cache
+D:\СПП\TracerApp\TracerLibrary\obj\Debug\net6.0\TracerLibrary.dll
+D:\СПП\TracerApp\TracerLibrary\obj\Debug\net6.0\refint\TracerLibrary.dll
+D:\СПП\TracerApp\TracerLibrary\obj\Debug\net6.0\TracerLibrary.pdb
+D:\СПП\TracerApp\TracerLibrary\obj\Debug\net6.0\ref\TracerLibrary.dll

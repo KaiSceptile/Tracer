@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <thread id="1" time="667ms">
+    <method name="TestMethod_1" time="458ms" class="Program">
+      <method name="TestMethod_1_1" time="148ms" class="Program" />
+      <method name="TestMethod_1_2" time="100ms" class="Program" />
+      <method name="TestMethod_1_3" time="104ms" class="Program" />
+      <method name="TestMethod_1_4" time="104ms" class="Program" />
+    </method>
+    <method name="TestMethod_2" time="209ms" class="Program">
+      <method name="TestMethod_2_1" time="209ms" class="Program">
+        <method name="TestMethod_2_1_1" time="104ms" class="Program" />
+      </method>
+    </method>
+  </thread>
+</root>

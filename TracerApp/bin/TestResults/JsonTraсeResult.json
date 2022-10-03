@@ -1,0 +1,32 @@
+{
+  "thread": [
+    {
+      "id": 1,
+      "time": "323ms",
+      "methods": [
+        {
+          "name": "TestMethod_1",
+          "class": "Program",
+          "time": "323ms",
+          "methods": [
+            {
+              "name": "TestMethod_1_1",
+              "class": "Program",
+              "time": "114ms"
+            },
+            {
+              "name": "TestMethod_1_2",
+              "class": "Program",
+              "time": "103ms"
+            },
+            {
+              "name": "TestMethod_1_3",
+              "class": "Program",
+              "time": "104ms"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <thread id="1" time="323ms">
+    <method name="TestMethod_1" time="323ms" class="Program">
+      <method name="TestMethod_1_1" time="114ms" class="Program" />
+      <method name="TestMethod_1_2" time="103ms" class="Program" />
+      <method name="TestMethod_1_3" time="104ms" class="Program" />
+    </method>
+  </thread>
+</root>
