@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tiPyX8IEuogVd7hzSu3gyAdtyula+VZV8KN+9oUoXkwn6uen01dRKNb1x5f4MXNGk5H+2Gy2Tz2DUBlOFZ2jLQ==",
+  "dgSpecHash": "YYrMo6F12/nQL2WnYN2guiTpHXy6Ydd0/ZJ+hVhhCb0Nqs+10uVMHIC3w1JiL8jXj2EEHCCoqUKgr9QtCNlnkQ==",
   "success": true,
   "projectFilePath": "D:\\СПП\\TracerApp\\TracerLibrary\\TracerLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
