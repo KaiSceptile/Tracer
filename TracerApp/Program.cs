@@ -25,7 +25,7 @@ namespace TracerApp
             this.Tracer = new Tracer();
 
             TestMethod_1();
-            
+            TestMethod_2();
 
             SaveToXml();
             SaveToJson();
@@ -63,7 +63,26 @@ namespace TracerApp
             this.Tracer.StopTrace();
         }
 
-        
+        public void TestMethod_2()
+        {
+            this.Tracer.StartTrace();
+            TestMethod_2_1();
+            this.Tracer.StopTrace();
+        }
+
+        public void TestMethod_2_1()
+        {
+            this.Tracer.StartTrace();
+            Thread.Sleep(100);
+            TestMethod_2_1_1();
+            this.Tracer.StopTrace();
+        }
+        public void TestMethod_2_1_1()
+        {
+            this.Tracer.StartTrace();
+            Thread.Sleep(100);
+            this.Tracer.StopTrace();
+        }
 
         public void SaveToXml()
         {
