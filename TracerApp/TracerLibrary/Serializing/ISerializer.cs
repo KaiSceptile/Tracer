@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace TracerLibrary.Serializing
 {
-    internal class ISerialiser
+    interface ISerializer
     {
+        void SaveTraceResult(TextWriter textWriter, TraceResult traceResult);
     }
 }
